@@ -28,16 +28,16 @@
 
 Old   |  New
 :----:|:----:
-```sklearn.ensemble.bagging.BaggingClassifier```    |       ```sklearn.ensemble.BaggingClassifier```
-```sklearn.ensemble.bagging.BaggingRegressor```       |       ```sklearn.ensemble.BaggingRegressor```
-```sklearn.ensemble.forest.RandomForestClassifier```  |       ```sklearn.ensemble.RandomForestClassifier```
-```sklearn.ensemble.forest.RandomForestRegressor```   |       ```sklearn.ensemble.RandomForestRegressor```   
-```sklearn.ensemble.forest.ExtraTreesClassifier```    |       ```sklearn.ensemble.ExtraTreesClassifier```
-```sklearn.ensemble.forest.ExtraTreeRegressor```      |       ```sklearn.ensemble.ExtraTreeRegressor```  
+sklearn.ensemble.bagging.BaggingClassifier    |       sklearn.ensemble.BaggingClassifier
+sklearn.ensemble.bagging.BaggingRegressor       |       sklearn.ensemble.BaggingRegressor
+sklearn.ensemble.forest.RandomForestClassifier  |       sklearn.ensemble.RandomForestClassifier
+sklearn.ensemble.forest.RandomForestRegressor   |       sklearn.ensemble.RandomForestRegressor   
+sklearn.ensemble.forest.ExtraTreesClassifier    |       sklearn.ensemble.ExtraTreesClassifier
+sklearn.ensemble.forest.ExtraTreeRegressor      |       sklearn.ensemble.ExtraTreeRegressor  
 <br>
-4. changes in importing libraries in rule_extraction.py
+4. changes in importing libraries in rule_extr.py
 
 Old   |  New
 :----:|:----:
-```from sklearn.externals.six import StringIO```      |       ```from six import StringIO```
-```from sklearn.tree import _tree```                  |       ```from sklearn.tree import``` ```DecisionTreeClassifier, from sklearn.tree import DecisionTreeRegressor```   
+from sklearn.externals.six import StringIO      |       from six import StringIO
+from sklearn.tree import _tree                  |       from sklearn.tree import DecisionTreeClassifier, from sklearn.tree import DecisionTreeRegressor   
