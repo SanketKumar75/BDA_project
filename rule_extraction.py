@@ -11,7 +11,7 @@ import pandas as pd
 
 from rule import Rule
 
-# 2018.10.14 Created by Eamon.Zhang
+# 2018.10.14 Created by Eamon.Zhang 
 # 2018.10.15 Add rule filtering function, which allows future functions such as prediction based on selected sets of rules
 # 2018.10.15 Issue: DataFrame.Query has a max length limit of 32 to the query string, see https://github.com/PyTables/PyTables/issues/286. 
 #            will raise error if rules have >32 conditiions. Unsovlebale yet.

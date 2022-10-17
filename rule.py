@@ -11,7 +11,7 @@ class Rule:
     Parameters
     ----------
 
-    rule : str
+    rule : str 
         The logical rule that is interpretable by a pandas query.
         一段能被 pandas query 方法解析的规则字符串
 
