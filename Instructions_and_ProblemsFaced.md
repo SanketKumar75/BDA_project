@@ -1,10 +1,17 @@
+**Group members: <br>	
+Parag Poddar - 2019BCS038<br>
+Sanket Kumar Dawar - 2019BCS054<br>
+Jay Shah - 2019BCS057<br>
+Shivaji Kumar - 2019BCS058<br>**
+
+<br>
 **Instructions to run the program**
 
 1. Install all required dependencies 
-    - sklearn - ```pip install scikit-learn```
-    - pandas - ```pip install pandas```
+    - sklearn - `pip install scikit-learn`
+    - pandas - ``pip install pandas``
     - numpy - ```pip install numpy```
-    - pydotplus - pip install pydotplus
+    - pydotplus - `pip install pydotplus`
     - graphviz  
                 **Installing graphviz (for windows user):**
         - Download and install executable from https://graphviz.gitlab.io/_pages/Download/Download_windows.html
