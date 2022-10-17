@@ -1,15 +1,15 @@
-**Group members: <br>	
-Parag Poddar - 2019BCS038<br>
-Sanket Kumar Dawar - 2019BCS054<br>
-Jay Shah - 2019BCS057<br>
-Shivaji Kumar - 2019BCS058<br>**
+Group members: 	
+- Parag Poddar - 2019BCS038
+- Sanket Kumar Dawar - 2019BCS054
+- Jay Shah - 2019BCS057
+- Shivaji Kumar - 2019BCS058
 
-<br>
-**Instructions to run the program**
+ 
+ **Instructions to run the program**
 
 1. Install all required dependencies 
-    - sklearn - `pip install scikit-learn`
-    - pandas - ``pip install pandas``
+    - sklearn - ```pip install scikit-learn```
+    - pandas - ```pip install pandas```
     - numpy - ```pip install numpy```
     - pydotplus - `pip install pydotplus`
     - graphviz  
@@ -19,7 +19,7 @@ Shivaji Kumar - 2019BCS058<br>**
         ![install_graphviz](images/install_graphviz.png)
         - Restart your currently running application that requires the path
 
-2. Execute rule.py and rule_extraction.py.
+2. Execute rule.py and rule_extraction.py
 
 3. Finally execute the main.ipynb.
 <br><br>
